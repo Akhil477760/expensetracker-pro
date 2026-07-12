@@ -94,6 +94,11 @@ API runs at `http://127.0.0.1:8000/`
 - [ ] CSV/PDF export for transaction history
 - [ ] Frontend dashboard with charts
 
+
+## 🌐 Live Demo
+API is live at: https://expensetracker-pro-suz6.onrender.com/
+(Note: free tier may take 20-30 seconds to wake up on first request)
+
 ## 👤 Author
 
 **Akhil** — Built as part of a transition into a Software Engineer role, focused on demonstrating REST API design, authentication, and AI integration skills.
